@@ -172,7 +172,7 @@ Logistic_Regression.ipynb
 
 Computer Science Engineering Student
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/Gaganbt03
 
 ---
 
